@@ -1,4 +1,5 @@
 <?php
+
 namespace SocialiteProviders\Venmo;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
